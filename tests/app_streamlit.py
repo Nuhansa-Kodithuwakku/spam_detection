@@ -23,7 +23,7 @@ except ImportError:
 #st.set_page_config configure the web page layout and title
 #st.write add descriptive texts
 st.set_page_config(page_title="Spam/Ham Classifier", layout="centered")
-st.title("📧 Spam / Ham Email Classifier")
+st.title("Spam / Ham Email Classifier")
 st.write(
     "Check whether your email is **Spam** or **Ham**, see confidence scores, "
     "and explore keyword importance."
@@ -75,19 +75,6 @@ if "gmail_connected" not in st.session_state:
     st.session_state.gmail_connected = False
 
 
-# # Sidebar Controls
-# with st.sidebar:
-#     st.header("⚙️ Options")
-#     dark_mode = st.toggle("🌙 Dark Mode", value=False)
-#     if dark_mode:
-#         st.markdown(
-#             """
-#             <style>
-#                 body { background-color: #111 !important; color: #EEE !important; }
-#             </style>
-#             """,
-#             unsafe_allow_html=True,
-#         )
 
 
 # Email Input or File Upload
