@@ -1,6 +1,3 @@
-Here’s the **ready-to-use README file** in proper markdown format. You can save it directly as `README.md` in your project root:
-
-````markdown
 # SpamShield
 
 📧 **SpamShield** is an intelligent email classification system that detects **spam** and **ham** messages using **Machine Learning** and **Natural Language Processing (NLP)**. It provides probability scores for spam/ham, highlights top contributing keywords, and visualizes historical classification insights.  
@@ -109,5 +106,6 @@ Try SpamShield online: [https://spamshields.streamlit.app/](https://spamshields.
 
 This project is licensed under the MIT License.
 Made by Team ActiveNation
+
 
 
