@@ -64,6 +64,7 @@ streamlit run streamlitapp/app.py
 
 ## Project Structure
 
+```
 
 SpamShield/
 │
@@ -87,6 +88,7 @@ SpamShield/
 ├── Dockerfile
 └── README.md
 
+```
 
 ---
 
