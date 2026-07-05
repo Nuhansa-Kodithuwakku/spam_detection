@@ -1,5 +1,10 @@
 # SpamShield
 
+<p align="center">
+  <img src="energy.jpg" width="45%" /><br/>
+  <b>Energy Consumption Prediction</b>
+</p>
+
 📧 *SpamShield* is an intelligent email classification system that detects *spam* and *ham* messages using *Machine Learning* and *Natural Language Processing (NLP)*. It provides probability scores for spam/ham, highlights top contributing keywords, and visualizes historical classification insights.
 
 Live Demo: [https://spamshields.streamlit.app/](https://spamshields.streamlit.app/)
